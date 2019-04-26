@@ -3,3 +3,5 @@ x
 hist(x)
 fivenum(x)
 x
+y <- rnorm(10,60,20)
+y
